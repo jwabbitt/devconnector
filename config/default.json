@@ -1,3 +1,4 @@
 {
-  "monogURI": "mongodb+srv://jrabbitt1110:jrabbitt1110321@devconnector-6faf6.mongodb.net/test?retryWrites=true&w=majority"
+  "monogURI": "mongodb+srv://jrabbitt1110:jrabbitt1110321@devconnector-6faf6.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mySpecialSecret"
 }
