@@ -1,0 +1,6 @@
+{
+  "monogURI": "mongodb+srv://jrabbitt1110:jrabbitt1110321@devconnector-6faf6.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mySpecialSecret",
+  "githubClientId": "885223d6057740f66470",
+  "githubSecret": "ef79d55a890885b9d19a89952ea49e8d4638a5a3"
+}
